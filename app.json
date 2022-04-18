@@ -1,0 +1,14 @@
+{
+  "expo": {
+    "name": "test",
+    "slug": "test",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*",
+      "assets/*"
+    ],
+    "android": {
+      "package": "com.jake.test"
+    }
+  }
+}
